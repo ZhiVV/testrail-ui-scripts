@@ -1,0 +1,44 @@
+
+.button-AutomatedAutoStatus {
+    background-image: url("https://jira.parcsis.org/images/icons/emoticons/check.gif");
+	background-repeat: no-repeat;
+	background-position: center center;
+    opacity: 0.4;
+}
+.button-NotAutomatedAutoStatus {
+    opacity: 0.2;
+}
+.button-СhangedAutoStatus {
+    background-image: url("https://jira.parcsis.org/images/icons/emoticons/warning.gif");
+	background-repeat: no-repeat;
+	background-position: center center;
+    opacity: 0.4;
+}
+
+
+.button-YesObsolete {
+	background-size: 16px;
+    background-image: url("https://openclipart.org/image/90px/svg_to_png/121987/skullandbones.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.4;
+}
+.button-NoObsolete {
+	opacity: 0.2;
+}
+
+.button-YesAutomated {
+    background-size: 16px;
+    background-image: url("http://static1.squarespace.com/static/5ada468e5cfd79bdd1d2c018/t/5ae21b81562fa736d9d519a0/1524767620942/icons8-bot-50.png");
+  	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.4;
+}
+.button-NoAutomated {
+    background-size: 16px;
+    transform: scale(-1, 1);
+    background-image: url("http://hvatalkin.ru/cr_images/modelImage/storyanswer/25-icon-Turtle-100.png");
+  	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.8;
+}
