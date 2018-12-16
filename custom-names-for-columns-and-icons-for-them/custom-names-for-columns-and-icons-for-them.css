@@ -1,6 +1,7 @@
 
 .button-AutomatedAutoStatus {
-    background-image: url("https://jira.parcsis.org/images/icons/emoticons/check.gif");
+	background-size: 16px;
+    background-image: url("http://www.kizlyar-cognac.ru/bitrix/templates/kkz/img/valided.png");
 	background-repeat: no-repeat;
 	background-position: center center;
     opacity: 0.4;
@@ -9,7 +10,8 @@
     opacity: 0.2;
 }
 .button-СhangedAutoStatus {
-    background-image: url("https://jira.parcsis.org/images/icons/emoticons/warning.gif");
+	background-size: 16px;
+    background-image: url("http://www.tivonproperties.com/imgs/warn.png");
 	background-repeat: no-repeat;
 	background-position: center center;
     opacity: 0.4;
